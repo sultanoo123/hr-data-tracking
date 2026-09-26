@@ -1,4 +1,4 @@
-const GOOGLE_SHEET_CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTli82ISMD1kEMgEnz8IQ9_yi0eNv-ip37C1qF0QFVR9YM7FLy11TeRwOp_4e5wD4WIUEWtheEHfX1F/pub?gid=726802756&single=true&output=csv';
+const GOOGLE_SHEET_CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTli82ISMD1kEMgEnz8IQ9_yi0eNv-ip37C1qF0QFVR9YM7FLy11TeRwOp_4e5wD4WIUEWtheEHfX1F/pub?gid=435625430&single=true&output=csv';
 
 const ALL_TRACKED_FIELDS = [
   // 1. Kependudukan & Pribadi
